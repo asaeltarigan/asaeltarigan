@@ -24,6 +24,8 @@ I lecture in the **Artificial Intelligence program at BINUS University, Jakarta*
 | | |
 | :-- | :-- |
 | 🎓 **Role** | AI lecturer, BINUS University (Jakarta, Indonesia) |
+| 📅 **Lecturing since** | 2025 |
+| 🎂 **Age** | 25 |
 | 🔬 **Research** | Computer vision, deepfake detection, LLM behaviour in medical settings |
 | 🧱 **Builds** | Self-hosted teaching infrastructure on small, ownable stacks |
 | 🌐 **Languages** | English · Bahasa Indonesia ([site mirrored in ID](https://asaeltarigan.github.io/id/)) |
