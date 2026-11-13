@@ -17,15 +17,13 @@
 
 ## 👋 About
 
-I lecture in the **Artificial Intelligence program at BINUS University, Jakarta**. My teaching covers machine learning, computer vision, and research methodology, and most of what lives in this account exists because a class needed it: a competition platform, quiz portals, a teaching tool that makes backpropagation visible.
+I have lectured in the **Artificial Intelligence program at BINUS University, Jakarta** since 2025. My teaching covers machine learning, computer vision, and research methodology, and most of what lives in this account exists because a class needed it: a competition platform, quiz portals, a teaching tool that makes backpropagation visible.
 
 > **Proof over claims.** The systems below are running, and the ones students touch carry real teaching load every week.
 
 | | |
 | :-- | :-- |
 | 🎓 **Role** | AI lecturer, BINUS University (Jakarta, Indonesia) |
-| 📅 **Lecturing since** | 2025 |
-| 🎂 **Age** | 25 |
 | 🔬 **Research** | Computer vision, deepfake detection, LLM behaviour in medical settings |
 | 🧱 **Builds** | Self-hosted teaching infrastructure on small, ownable stacks |
 | 🌐 **Languages** | English · Bahasa Indonesia ([site mirrored in ID](https://asaeltarigan.github.io/id/)) |
